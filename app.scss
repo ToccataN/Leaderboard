@@ -1,0 +1,40 @@
+
+$mar: 0 auto;
+
+body {
+    background: black;
+}
+
+th{
+    background:#777;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.tbl{
+    background: #ddd;
+    margin: $mar;
+    margin-top: 20px;
+    width: 700px ;
+}
+.headerdiv {
+    margin: $mar;
+    padding: 5px;
+    font-size: 18pt;
+    position: relative ;
+    width: 80%;
+    height: 50px;
+    color: #aaa;
+    display: inline-block;
+}
+
+#but {
+    margin-left: 450px;
+    
+    
+}
+h2 {
+    font-size: 28pt;
+}
